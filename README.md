@@ -14,7 +14,7 @@ Building modern web applications and solving real-world problems.
 
 - 🎓 Computer Science Undergraduate at **Delhi Technological University (DTU)**
 - 💻 Full Stack Developer focused on the **MERN Stack**
-- 🧩 Strong interest in **Data Structures & Algorithms**
+- 🧩 Passionate about **Data Structures & Algorithms**
 - 🌱 Currently learning **Redis, WebSockets & System Design**
 - 📫 **Email:** **nitinkumar29122501@gmail.com**
 
@@ -26,7 +26,7 @@ Building modern web applications and solving real-world problems.
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,git,github,postman,vscode" />
 </p>
 
@@ -35,29 +35,35 @@ Building modern web applications and solving real-world problems.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitinkumar2912&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar2912&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=nitinkumar2912&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar2912&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p>
 <a href="https://linkedin.com/in/nitin-kumar-30790336a">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://twitter.com/punkur_696">
-<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+<img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
 <a href="https://instagram.com/punkur_696">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 <a href="mailto:nitinkumar29122501@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
 
