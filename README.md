@@ -26,8 +26,8 @@ Building modern web applications and solving real-world problems.
 
 ## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,git,github,postman,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,git,github,postman,vscode" />
 </p>
 
 ---
@@ -36,12 +36,12 @@ Building modern web applications and solving real-world problems.
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=nitinkumar2912&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=nitinkumar2912&show_icons=true&theme=tokyonight&hide_border=true"
   />
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar2912&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nitinkumar2912&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
@@ -49,26 +49,23 @@ Building modern web applications and solving real-world problems.
 
 ## 🌐 Connect With Me
 
-<p>
-<a href="https://linkedin.com/in/nitin-kumar-30790336a">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://twitter.com/punkur_696">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-<a href="https://instagram.com/punkur_696">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<a href="mailto:nitinkumar29122501@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+<p align="left">
+  <a href="https://linkedin.com/in/nitin-kumar-30790336a">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/punkur_696">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://instagram.com/punkur_696">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:nitinkumar29122501@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=nitinkumar2912&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=nitinkumar2912&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
