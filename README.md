@@ -18,7 +18,7 @@ Building modern web applications and solving real-world problems.
 - 🌱 Currently learning **Redis, WebSockets & System Design**
 - 📫 **Email:** **nitinkumar29122501@gmail.com**
 
-🌐 **Portfolio:** https://portfolio-alpha-smoky-66.vercel.app/
+🌐 **Portfolio:** https://www.nitinkumar.website/
 
 📄 **Resume:** https://drive.google.com/file/d/1Oa_r-ZJj5R8F5nMu7Q-ZTZFPBvQD3W8B/view
 
