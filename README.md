@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Kumar</h1>
 
 <h3 align="center">
-Computer Science Student at DTU | Full Stack MERN Developer | DSA Enthusiast
+Computer Science Student at DTU | Full Stack MERN Developer | DSA Enthusiast 
 </h3>
 
 <p align="center">
