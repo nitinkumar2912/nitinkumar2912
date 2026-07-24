@@ -11,7 +11,7 @@ Building modern web applications and solving real-world problems.
 ---
 
 ## 👨‍💻 About Me
-
+ 
 - 🎓 Computer Science Undergraduate at **Delhi Technological University (DTU)**
 - 💻 Full Stack Developer focused on the **MERN Stack**
 - 🧩 Passionate about **Data Structures & Algorithms**
