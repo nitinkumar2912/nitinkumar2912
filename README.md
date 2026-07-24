@@ -6,7 +6,7 @@ Computer Science Student at DTU | Full Stack MERN Developer | DSA Enthusiast
 
 <p align="center">
 Building modern web applications and solving real-world problems.
-</p>
+</p> 
 
 ---
 
